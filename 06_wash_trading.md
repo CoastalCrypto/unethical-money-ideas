@@ -2,14 +2,14 @@
 
 ## Video 9: "Crypto Wash Trading for Profit"
 
-### **Summary**
+### Summary
 - **Video Title:** *Crypto Wash Trading for Profit*
 - **Key Points:**
   - How to manipulate crypto markets using wash trading.
   - Creating fake volume to inflate asset prices.
   - Risks of regulatory action and market manipulation laws.
 
-### **Key Tactics**
+### Key Tactics
 1. **Wash Trading**
    - Buying and selling the same asset between wallets to create fake volume.
    - Using bots to automate wash trading activities.
@@ -22,7 +22,7 @@
    - Penalties for market manipulation and fraud.
    - Importance of transparency in financial markets.
 
-### **Notes**
+### Notes
 - Always ensure compliance with securities laws.
 - Consider the ethical implications of market manipulation.
 
@@ -30,14 +30,14 @@
 
 ## Video 10: "How to Hide Assets from Creditors"
 
-### **Summary**
+### Summary
 - **Video Title:** *How to Hide Assets from Creditors*
 - **Key Points:**
   - Using trusts and LLCs to protect assets from legal claims.
   - Transferring assets to family members or offshore entities.
   - Risks of fraudulent conveyance and legal penalties.
 
-### **Key Tactics**
+### Key Tactics
 1. **Trusts and LLCs**
    - Creating trusts or LLCs to hold assets in someone else's name.
    - Using these entities to shield assets from creditors.
@@ -50,12 +50,6 @@
    - Penalties for fraudulent conveyance and asset hiding.
    - Importance of transparency in financial dealings.
 
-### **Notes**
+### Notes
 - Always ensure compliance with legal and financial regulations.
 - Consider the ethical implications of hiding assets.
-
----
-
-### **Next Steps**
-- Document additional videos from the channel.
-- Upload to the **CoastalCrypto/unethical-money-ideas** repository.

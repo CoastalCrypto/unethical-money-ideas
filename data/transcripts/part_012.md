@@ -1,0 +1,24 @@
+# Part 12 — @dirtydollars1
+
+**Source:** [@dirtydollars1](https://www.tiktok.com/@dirtydollars1/video/7572012343811460374)
+**Video ID:** `7572012343811460374`
+
+## Transcript
+
+Unethical ways to make money part 12.
+People are literally getting paid to listen to other people complain.
+It's called the emotional support business.
+Where you pretend to be a life coach
+but you're really just saying that's crazy, bro.
+Every three minutes you and your friend set up a discord server,
+call it therapy but without a degree,
+and charge $10 a month for emotional membership.
+All you do is listen to people rant about their ex,
+send a motivational quote from Pinterest,
+and mute the chat. One handles customer support,
+the other posts fake inspirational tweets like healing isn't linear,
+but my subscription is. I'm not saying you should do this,
+but if you do, at least send me the link.
+
+---
+*Transcribed from TikTok closed captions.*

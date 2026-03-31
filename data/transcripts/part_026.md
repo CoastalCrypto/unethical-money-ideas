@@ -1,0 +1,29 @@
+# Part 26 — @dirtydollars1
+
+**Source:** [@dirtydollars1](https://www.tiktok.com/@dirtydollars1/video/7576425802053602582)
+**Video ID:** `7576425802053602582`
+
+## Transcript
+
+Unethical ways to make fucking money,
+part 26. There's a delivery trick so insane,
+the employees who discovered it were fired on the spot.
+They called it the guaranteed delivery backdoor,
+cause once you activated it,
+packages became unstoppable.
+Some carriers have a hidden override button in the system
+made for VIP clients, politicians,
+and lawsuit Protection. But two guys figured out how to trigger it
+using nothing but a barcode and a glitchy tracking page.
+When the system thinks a package is high priority protected,
+it sends replacements instantly if anything goes wrong.
+So they'd scan a broken barcode,
+fake a tracking freeze,
+and the system shipped a second item automatically.
+They never touched a warehouse.
+They never touched customer service.
+They only touched the back door.
+Follow dirty dollars, part 27 reveals how they found the trigger.
+
+---
+*Transcribed from TikTok closed captions.*
